@@ -1,0 +1,249 @@
+opw@opw-S400CA:~/workspace/COMP4211_SVM/testscript$ python ./q1.py
+Degree  1
+Cross Validation Accuracy = 86.2%
+Cross Validation Accuracy = 86.3%
+Cross Validation Accuracy = 86.2%
+Cross Validation Accuracy = 87.3%
+Cross Validation Accuracy = 86%
+Cross Validation Accuracy = 86%
+Cross Validation Accuracy = 86.6%
+Cross Validation Accuracy = 86.1%
+Cross Validation Accuracy = 86.7%
+Cross Validation Accuracy = 85.9%
+Cross Validation Accuracy = 86.8%
+The chosen C is 0.25 , with accuracy of 87.3 
+Degree  2
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.9%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+The chosen C is 2.0 , with accuracy of 99.9 
+Degree  3
+Cross Validation Accuracy = 99.6%
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.5%
+Cross Validation Accuracy = 99.6%
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.6%
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.6%
+The chosen C is 0.125 , with accuracy of 99.8 
+Degree  4
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.6%
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+The chosen C is 0.03125 , with accuracy of 99.8 
+Degree  5
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.6%
+Cross Validation Accuracy = 99.6%
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.6%
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.7%
+The chosen C is 1.0 , with accuracy of 99.8 
+For poly kernel with degree d = 1 , c = 0.25
+For poly kernel with degree d = 2 , c = 2.0
+For poly kernel with degree d = 3 , c = 0.125
+For poly kernel with degree d = 4 , c = 0.03125
+For poly kernel with degree d = 5 , c = 1.0
+Training with d = 1, c = 0.25
+Traning data
+Accuracy = 86.8% (868/1000) (classification)
+testing data
+Accuracy = 82.4% (824/1000) (classification)
+opw@opw-S400CA:~/workspace/COMP4211_SVM/testscript$ python ./q1.py
+Degree  1
+Cross Validation Accuracy = 86.2%
+Cross Validation Accuracy = 86.3%
+Cross Validation Accuracy = 86.2%
+Cross Validation Accuracy = 87.3%
+Cross Validation Accuracy = 86%
+Cross Validation Accuracy = 86%
+Cross Validation Accuracy = 86.6%
+Cross Validation Accuracy = 86.1%
+Cross Validation Accuracy = 86.7%
+Cross Validation Accuracy = 85.9%
+Cross Validation Accuracy = 86.8%
+The chosen C is 0.25 , with accuracy of 87.3 
+Degree  2
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.9%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+The chosen C is 2.0 , with accuracy of 99.9 
+Degree  3
+Cross Validation Accuracy = 99.6%
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.5%
+Cross Validation Accuracy = 99.6%
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.6%
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.6%
+The chosen C is 0.125 , with accuracy of 99.8 
+Degree  4
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.6%
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+The chosen C is 0.03125 , with accuracy of 99.8 
+Degree  5
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.6%
+Cross Validation Accuracy = 99.6%
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.6%
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.7%
+The chosen C is 1.0 , with accuracy of 99.8 
+For poly kernel with degree d = 1 , c = 0.25
+For poly kernel with degree d = 2 , c = 2.0
+For poly kernel with degree d = 3 , c = 0.125
+For poly kernel with degree d = 4 , c = 0.03125
+For poly kernel with degree d = 5 , c = 1.0
+Training with d = 1, c = 0.25
+Traning data
+Accuracy = 86.8% (868/1000) (classification)
+testing data
+Accuracy = 82.4% (824/1000) (classification)
+opw@opw-S400CA:~/workspace/COMP4211_SVM/testscript$ python ./q1.py
+Degree  1
+Cross Validation Accuracy = 86.2%
+Cross Validation Accuracy = 86.3%
+Cross Validation Accuracy = 86.2%
+Cross Validation Accuracy = 87.3%
+Cross Validation Accuracy = 86%
+Cross Validation Accuracy = 86%
+Cross Validation Accuracy = 86.6%
+Cross Validation Accuracy = 86.1%
+Cross Validation Accuracy = 86.7%
+Cross Validation Accuracy = 85.9%
+Cross Validation Accuracy = 86.8%
+The chosen C is 0.25 , with accuracy of 87.3 
+Degree  2
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.9%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+The chosen C is 2.0 , with accuracy of 99.9 
+Degree  3
+Cross Validation Accuracy = 99.6%
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.5%
+Cross Validation Accuracy = 99.6%
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.6%
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.6%
+The chosen C is 0.125 , with accuracy of 99.8 
+Degree  4
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.6%
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+The chosen C is 0.03125 , with accuracy of 99.8 
+Degree  5
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.6%
+Cross Validation Accuracy = 99.6%
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.8%
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.6%
+Cross Validation Accuracy = 99.7%
+Cross Validation Accuracy = 99.7%
+The chosen C is 1.0 , with accuracy of 99.8 
+For poly kernel with degree d = 1 , c = 0.25
+For poly kernel with degree d = 2 , c = 2.0
+For poly kernel with degree d = 3 , c = 0.125
+For poly kernel with degree d = 4 , c = 0.03125
+For poly kernel with degree d = 5 , c = 1.0
+Training with d = 1, c = 0.25
+Traning data
+Accuracy = 86.8% (868/1000) (classification)
+testing data
+Accuracy = 82.4% (824/1000) (classification)
+Training with d = 2, c = 2.0
+Traning data
+Accuracy = 100% (1000/1000) (classification)
+testing data
+Accuracy = 95.7% (957/1000) (classification)
+Training with d = 3, c = 0.125
+Traning data
+Accuracy = 100% (1000/1000) (classification)
+testing data
+Accuracy = 95.7% (957/1000) (classification)
+Training with d = 4, c = 0.03125
+Traning data
+Accuracy = 100% (1000/1000) (classification)
+testing data
+Accuracy = 95.5% (955/1000) (classification)
+Training with d = 5, c = 1.0
+Traning data
+Accuracy = 100% (1000/1000) (classification)
+testing data
+Accuracy = 95.4% (954/1000) (classification)
+
